@@ -1,0 +1,57 @@
+[
+	{
+		"inputs" : "/handwritten_number/1_1.png",
+		"targets" : 1
+	},{
+		"inputs" : "/handwritten_number/1_2.png",
+		"targets" : 1
+	},{
+		"inputs" : "/handwritten_number/2_1.png",
+		"targets" : 2
+	},{
+		"inputs" : "/handwritten_number/2_2.png",
+		"targets" : 2
+	},{
+		"inputs" : "/handwritten_number/3_1.png",
+		"targets" : 3
+	},{
+		"inputs" : "/handwritten_number/3_2.png",
+		"targets" : 3
+	},{
+		"inputs" : "/handwritten_number/4_1.png",
+		"targets" : 4
+	},{
+		"inputs" : "/handwritten_number/4_2.png",
+		"targets" : 4
+	},{
+		"inputs" : "/handwritten_number/5_1.png",
+		"targets" : 5
+	},{
+		"inputs" : "/handwritten_number/5_2.png",
+		"targets" : 5
+	},{
+		"inputs" : "/handwritten_number/6_1.png",
+		"targets" : 6
+	},{
+		"inputs" : "/handwritten_number/6_2.png",
+		"targets" : 6
+	},{
+		"inputs" : "/handwritten_number/7_1.png",
+		"targets" : 7
+	},{
+		"inputs" : "/handwritten_number/7_2.png",
+		"targets" : 7
+	},{
+		"inputs" : "/handwritten_number/8_1.png",
+		"targets" : 8
+	},{
+		"inputs" : "/handwritten_number/8_2.png",
+		"targets" : 8
+	},{
+		"inputs" : "/handwritten_number/9_1.png",
+		"targets" : 9
+	},{
+		"inputs" : "/handwritten_number/9_2.png",
+		"targets" : 9
+	}
+]

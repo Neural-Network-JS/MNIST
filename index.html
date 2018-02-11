@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Number Recognition</title>
+    <script src="lib/p5/p5.min.js"></script>
+    <script src="lib/p5/p5.dom.min.js"></script>
+    <script src="lib/nn.js"></script>
+    <script src="lib/matrix.js"></script>
+    <script src="mnist.js"></script>
+    <script src="sketch.js"></script>
+
+    <style type="text/css">
+      body{
+        font-size: 34px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container"></div>
+    <p>
+      Label: <span id="label"></span><br>
+      Guess: <span id="guess"></span><br>
+      <br>
+      Testing: <span id="percent"></span>
+      <br>
+      User Guess: <span id="user_guess"></span>
+      <br>
+      <button onclick="clearUserGuess();">Clear User Guess</button>
+    </p>
+  </body>
+</html>
